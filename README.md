@@ -1,0 +1,2 @@
+# PETE
+Python based Assistant
